@@ -21,6 +21,10 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "Sass",
+    "imageSrc": "skills/sass.png"
+  },
+  {
     "title": "Tailwind CSS",
     "imageSrc": "skills/tailwind.png"
   },

@@ -12,7 +12,7 @@
     "imageSrc": "projects/travelapp.png",
     "description": "Developed feature for travelers, aiding in organizing and recalling trip essentials",
     "skills": ["React", "CSS"],
-    "demo": "https://app.netlify.com/sites/farawaytravelersapp",
+    "demo": "https://faraway-app.vercel.app/",
     "source": "https://github.com/Nobleman20/travellers-list-reactapp"
   },
   {
